@@ -31,3 +31,10 @@ Exception may needed
 Windows Features
 SMB 1.0 - activate (only if it is not working)
 ```
+
+
+
+
+powershell 
+Set-Executionpolicy bypass
+./
