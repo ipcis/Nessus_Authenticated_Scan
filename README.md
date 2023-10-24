@@ -34,7 +34,8 @@ SMB 1.0 - activate (only if it is not working)
 
 
 
-
+```
 powershell 
 Set-Executionpolicy bypass
-./
+./activate_nessus.ps1
+```
