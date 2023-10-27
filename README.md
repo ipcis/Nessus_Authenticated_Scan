@@ -4,6 +4,8 @@
 Troubleshooting Authenticated Nessus Audits:
 https://www.youtube.com/watch?v=CFwJQTr8t_k
 
+https://community.tenable.com/s/article/Troubleshooting-Credential-scanning-on-Windows?language=en_US
+
 
 Accounts
 add a Admin acccount
