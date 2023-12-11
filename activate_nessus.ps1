@@ -45,7 +45,7 @@ New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanServer\Par
 
 
 # Aktiviere SMB1
-Enable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
+# Enable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
 
 # Aktiviere SMB2
 Set-SmbServerConfiguration -EnableSMB2Protocol $true
